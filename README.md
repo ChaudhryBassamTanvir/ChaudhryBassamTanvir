@@ -123,15 +123,16 @@
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google clouds" width="40" height="40" style="margin: 0 20px 20px 0;" />
   </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40" style="margin: 0 20px 20px 0;" />
-  </a>
-  <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="digitalocean" width="40" height="40" style="margin: 0 20px 20px 0;" />
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" style="margin: 0 20px 20px 0;" />
-  </a>
+<a href="https://vercel.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40" style="margin: 0 20px 20px 0;" />
+</a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="margin: 0 20px 20px 0;" />
+</a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" style="margin: 0 20px 20px 0;" />
+</a>
+
 </p>
 
 <h3 align="left">📄 CODE EDITOR & IDEs:</h3>
