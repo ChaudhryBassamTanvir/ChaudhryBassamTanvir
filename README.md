@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **E-commerce Website**
 
-- 🌱 I’m currently learning **Nextjs+Typescript**
+- 🌱 I’m currently learning **Nextjs+Typescript, FAST API , LLM**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChaudhryBassamTanvir/ChaudhryBassamTanvir](https://github.com/ChaudhryBassamTanvir/ChaudhryBassamTanvir)
 
