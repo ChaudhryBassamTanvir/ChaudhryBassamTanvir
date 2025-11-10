@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **chbassamtanvir@gmail.com**
 
-- 📄 Know about my experiences [intern @FISTA Solutions](ex-intern @FISTA Solutions,)
+- 📄  have interned thrice with FISTA solutions, Ajcreationz.co, Jibreels.co & worked on a few research projects (published on Researchgate). 
 
 - ⚡ Fun fact **I enjoy turning everyday challenges into coding puzzles—whether it’s optimizing a recipe or figuring out the best way to organize my workspace.**
 
