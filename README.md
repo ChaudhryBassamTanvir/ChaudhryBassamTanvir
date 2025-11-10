@@ -10,13 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/chbassamtanvir" target="blank"><img src="https://img.shields.io/twitter/follow/chbassamtanvir?logo=twitter&style=for-the-badge" alt="chbassamtanvir" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce Website**
+- 🔭 I’m currently learning **Agentic AI and n8n**
 
 - 🌱 I’m currently learning **Nextjs+Typescript, FAST API , LLM, LangChain, LangGraph**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChaudhryBassamTanvir/ChaudhryBassamTanvir](https://github.com/ChaudhryBassamTanvir/ChaudhryBassamTanvir)
 
-- 💬 Ask me about **Nextjs, MERN, JAVA**
+- 💬 Ask me about **Nextjs, MERN, JAVA, GenAI**
 
 - 📫 How to reach me **chbassamtanvir@gmail.com**
 
