@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **E-commerce Website**
 
-- 🌱 I’m currently learning **Nextjs+Typescript, FAST API , LLM**
+- 🌱 I’m currently learning **Nextjs+Typescript, FAST API , LLM, LangChain, LangGraph**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChaudhryBassamTanvir/ChaudhryBassamTanvir](https://github.com/ChaudhryBassamTanvir/ChaudhryBassamTanvir)
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **chbassamtanvir@gmail.com**
 
-- 📄 Know about my experiences [intern @FISTA Solutions](intern @FISTA Solutions)
+- 📄 Know about my experiences [intern @FISTA Solutions](ex-intern @FISTA Solutions,)
 
 - ⚡ Fun fact **I enjoy turning everyday challenges into coding puzzles—whether it’s optimizing a recipe or figuring out the best way to organize my workspace.**
 
