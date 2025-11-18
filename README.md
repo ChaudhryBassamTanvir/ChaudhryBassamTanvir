@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently learning **Agentic AI and n8n**
 
-- 🌱 I’m currently learning **Nextjs+Typescript, FAST API , LLM, LangChain, LangGraph**
+- 🌱 I’m currently working with **Nextjs+Typescript, FAST API , LLM, LangChain, LangGraph**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChaudhryBassamTanvir/ChaudhryBassamTanvir](https://github.com/ChaudhryBassamTanvir/ChaudhryBassamTanvir)
 
