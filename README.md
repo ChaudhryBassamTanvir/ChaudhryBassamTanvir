@@ -1,4 +1,4 @@
-<img  src="https://media.licdn.com/dms/image/v2/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=Y-I1jvjtM82DoAy9jwPDiv4ofXjTqVkIOlE_tqWlcdw" alt="Master Banner" style="width: 100%; height: 450px;" />
+<img  src="https://media.licdn.com/dms/image/v2/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=Y-I1jvjtM82DoAy9jwPDiv4ofXjTqVkIOlE_tqWlcdw" alt="Master Banner" style="width: 80%; height: 400px;" />
 
 <h1 align="center">Hi 👋, I'm Chaudhry Bassam Tanvir</h1>
 <h3 align="center">Software Engineer specializing in the integration of Generative AI and modern full-stack development. Proven ability to build intelligent systems, leveraging Next.js, TypeScript, and Python/FastAPI to deliver solutions likeLLM-enhanced web applications and agentic AI workflows using LangChain. Experienced in developing complex AI models, including GANs and NLP systems, to solve real-world classification and generation problems</h3>
