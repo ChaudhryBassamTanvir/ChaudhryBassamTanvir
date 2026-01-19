@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently working with **Nextjs+Typescript, FAST API , LLM, LangChain, LangGraph**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ChaudhryBassamTanvir/ChaudhryBassamTanvir](https://github.com/ChaudhryBassamTanvir/ChaudhryBassamTanvir)
+- 👨‍💻 All of my projects are available at [https://github.com/ChaudhryBassamTanvir/Projects](https://github.com/ChaudhryBassamTanvir?tab=repositories)
 
 - 💬 Ask me about **Nextjs, MERN, JAVA, GenAI**
 
