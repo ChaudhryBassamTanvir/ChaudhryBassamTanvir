@@ -1,1 +1,251 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=Y-I1jvjtM82DoAy9jwPDiv4ofXjTqVkIOlE_tqWlcdw" alt="Master Banner" style="width: 100%; height: 400px;" /> <h1 align="center">Hi 👋, I'm Chaudhry Bassam Tanvir</h1> <h3 align="center">Software Engineer specializing in the integration of Generative AI and modern full-stack development. Proven ability to build intelligent systems, leveraging Next.js, TypeScript, and Python/FastAPI to deliver solutions likeLLM-enhanced web applications and agentic AI workflows using LangChain. Experienced in developing complex AI models, including GANs and NLP systems, to solve real-world classification and generation problems</h3> <img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" /> <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaudhrybassamtanvir&label=Profile%20views&color=0e75b6&style=flat" alt="chaudhrybassamtanvir" /> </p> <p align="left"> <a href="https://twitter.com/chbassamtanvir" target="blank"><img src="https://img.shields.io/twitter/follow/chbassamtanvir?logo=twitter&style=for-the-badge" alt="chbassamtanvir" /></a> </p> - 🔭 I’m currently learning **Agentic AI and n8n** - 🌱 I’m currently working with **Nextjs+Typescript, FAST API , LLM, LangChain, LangGraph** - 👨‍💻 All of my projects are available at [https://github.com/ChaudhryBassamTanvir/Projects](https://github.com/ChaudhryBassamTanvir?tab=repositories) - 💬 Ask me about **Nextjs, MERN, JAVA, GenAI** - 📫 How to reach me **chbassamtanvir@gmail.com** - 📄 have interned thrice with FISTA solutions, Ajcreationz.co, Jibreels.co & worked on a few research projects (published on Researchgate). - ⚡ Fun fact **I enjoy turning everyday challenges into coding puzzles—whether it’s optimizing a recipe or figuring out the best way to organize my workspace.** <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" style="margin: 0 10px 10px 0;" /> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin: 0 10px 10px 0;" /> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin: 0 10px 10px 0;" /> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin: 0 10px 10px 0;" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin: 0 10px 10px 0;" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin: 0 10px 10px 0;" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin: 0 10px 10px 0;" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin: 0 10px 10px 0;" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin: 0 10px 10px 0;" /> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin: 0 10px 10px 0;" /> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" style="margin: 0 10px 10px 0;" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin: 0 10px 10px 0;" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin: 0 10px 10px 0;" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin: 0 10px 10px 0;" /> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40" style="margin: 0 10px 10px 0;" /> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin: 0 10px 10px 0;" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin: 0 10px 10px 0;" /> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" style="margin: 0 10px 10px 0;" /> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" style="margin: 0 10px 10px 0;" /> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="margin: 0 10px 10px 0;" /> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="margin: 0 10px 10px 0;" /> </a> </p> <h3 align="left">🛠️ DEVOPS TOOLS:</h3> <p align="left"> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" style="margin: 0 30px 30px 0;" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40" style="margin: 0 30px 30px 0;" /> </a> <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" style="margin: 0 30px 30px 0;" /> </a> <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="margin: 0 30px 30px 0;" /> </a> </p> <h3 align="left">☁️ CLOUDS:</h3> <p align="left"> <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google clouds" width="40" height="40" style="margin: 0 20px 20px 0;" /> </a> <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40" style="margin: 0 20px 20px 0;" /> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="margin: 0 20px 20px 0;" /> </a> <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" style="margin: 0 20px 20px 0;" /> </a> </p> <h3 align="left">📄 CODE EDITOR & IDEs:</h3> <p align="left"> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a> </p> <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://twitter.com/chbassamtanvir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chbassamtanvir" height="30" width="40" /></a> <a href="https://instagram.com/chbassamtanvir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chbassamtanvir" height="30" width="40" /></a> <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucgnvpptmez0bkbno3osyu5q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucgnvpptmez0bkbno3osyu5q" height="30" width="40" ></a> </p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaudhrybassamtanvir&show_icons=true&locale=en&layout=compact" alt="chaudhrybassamtanvir" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaudhrybassamtanvir&show_icons=true&locale=en" alt="chaudhrybassamtanvir" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaudhrybassamtanvir&" alt="chaudhrybassamtanvir" /></p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Chaudhry%20Bassam%20Tanvir&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=58&descSize=16&animation=fadeIn" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+Agentic+AI+Systems+%F0%9F%A4%96;Crafting+LLM-Powered+Applications+%E2%9A%A1;Full-Stack+Engineer+%7C+Next.js+%2B+FastAPI;Turning+Ideas+Into+Intelligent+Products+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="mailto:chbassamtanvir@gmail.com"><img src="https://img.shields.io/badge/Gmail-chbassamtanvir%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/chaudhry-bassam-tanvir"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/chbassamtanvir"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://github.com/ChaudhryBassamTanvir"><img src="https://img.shields.io/badge/GitHub-ChaudhryBassamTanvir-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=chaudhrybassamtanvir&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```python
+class BassamTanvir:
+    def __init__(self):
+        self.name        = "Chaudhry Bassam Tanvir"
+        self.role        = "Software Engineer — AI & Full-Stack"
+        self.location    = "Faisalabad, Pakistan 🇵🇰"
+        self.education   = "B.Sc. Software Engineering @ UAF  |  CGPA: 3.57/4.00"
+
+        self.currently   = ["Agentic AI", "n8n Automation", "LangGraph"]
+        self.building    = ["LLM-powered web apps", "Multi-channel AI agents"]
+        self.research    = ["Published on ResearchGate & Zenodo"]
+
+        self.interests   = [
+            "Generative AI", "Conversational Agents",
+            "Full-Stack Systems", "Creative AI (GANs, Music)"
+        ]
+        self.fun_fact    = "I turn everyday challenges into coding puzzles 🧩"
+
+    def greet(self):
+        return "Let's build something intelligent together 🚀"
+```
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [ARIA — Agentic AI Communication System](https://github.com/ChaudhryBassamTanvir)
+> *LangChain · Google Gemini · FastAPI · Next.js 14 · WhatsApp/Slack API*
+
+Multi-channel AI agent operating across **WhatsApp, Slack & Web Portal** simultaneously. Automates client requirement gathering, Trello task creation, email notifications, and real-time dashboards — eliminating manual project intake entirely.
+
+`Python` `FastAPI` `LangChain` `Next.js` `PostgreSQL` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 [Mobile Finder System](https://github.com/ChaudhryBassamTanvir)
+> *Flutter · Firebase · Cloud Messaging · Admin Panel*
+
+Cross-platform app for reporting and tracking **lost/found devices** with real-time FIR status tracking and law enforcement integration. Research published on ResearchGate.
+
+`Flutter` `Firebase` `Firestore` `FCM`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 [Art Generator & Discriminator (GANs)](https://github.com/ChaudhryBassamTanvir)
+> *PyTorch · Generative Adversarial Networks · Computer Vision*
+
+AI-driven art generation system achieving **87% accuracy** across classification tasks. Explores deep learning for creative AI, image synthesis, and computer vision.
+
+`Python` `PyTorch` `GANs` `Deep Learning`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 [Smart SEO Tools Platform](https://github.com/ChaudhryBassamTanvir)
+> *Next.js · TypeScript · PostgreSQL · Rich Text Editor*
+
+Full-stack blog & SEO platform with rich text editing, user profiles, and commenting — built for content management efficiency and search optimization.
+
+`Next.js` `TypeScript` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎵 [Music Generator (LSTMs & GANs)](https://github.com/ChaudhryBassamTanvir)
+> *TensorFlow · LSTM · Music21 · Deep Learning*
+
+AI model generating realistic musical sequences using LSTMs and GANs with advanced note-sequence preprocessing pipelines.
+
+`Python` `TensorFlow` `LSTMs` `Music21`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [Fake Post Detection (NLP)](https://github.com/ChaudhryBassamTanvir)
+> *Python · NLP · Scikit-learn · Sentiment Analysis*
+
+NLP-based fake news detection system using text preprocessing, sentiment analysis, and ML classification for improved social media data reliability.
+
+`Python` `NLP` `Scikit-learn` `Text Analytics`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### ⚡ AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLMs%20%2F%20Gemini-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🌐 Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🔧 Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chaudhrybassamtanvir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chaudhrybassamtanvir&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaudhrybassamtanvir&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&layout=compact&langs_count=8" />
+
+</div>
+
+---
+
+## 📄 Publications & Research
+
+| 📝 Title | 🔗 DOI / Status |
+|---|---|
+| **ARIA: AI-Powered Multi-Channel Client Communication & Task Management** | `DOI: Pending` |
+| **UniLog: In-Context Learning Framework for Automated Logging with LLMs** | [10.5281/zenodo.17392305](https://doi.org/10.5281/zenodo.17392305) |
+| **Mobile Finder System: Smart Lost & Found Tracking with Flutter & Firebase** | [10.13140/RG.2.2.17825.88160](https://doi.org/10.13140/RG.2.2.17825.88160) |
+| **Digitalization of Final Year Project Portal** | [10.5281/zenodo.17260857](https://doi.org/10.5281/zenodo.17260857) |
+
+---
+
+## 💼 Experience Timeline
+
+```
+2025 – Present  ┃  🏢  Software Engineer (Intern) — DS Technologies
+                ┃      Led web dev team · MERN + AWS · CI/CD · +45% visitors
+
+Oct–Nov 2025    ┃  🤖  AI Engineering Intern — Code Alpha
+                ┃      LangChain workflows · GANs · 80% less manual effort
+
+Mar–May 2025    ┃  🌐  Full-Stack Developer Intern — Ajcreationz.co
+                ┃      Next.js + Firebase + Gemini LLM integration
+
+Oct–Dec 2024    ┃  ⚛️  Contracted Frontend Developer — Jibreels.co
+                ┃      Component library · 25% faster UI dev · 3 major releases
+
+Jun–Aug 2024    ┃  🔨  Full-Stack Developer Intern — Fista Solutions
+                ┃      Next.js · TypeScript · Agile · Auth module ownership
+```
+
+---
+
+## 🏆 Certifications & Awards
+
+<table>
+<tr>
+<td>
+
+**📜 Recent Certifications**
+- 🐍 Python Crash Course — Coursera (2025)
+- 🤖 Large Language Models — Cursa (2025)
+- ⚡ Maximize Productivity with AI — Coursera (2025)
+- 📊 Google Agile Essentials — Coursera (2025)
+- 🧠 Python for Data Science — Saylor.org (2025)
+- 🔍 SEO — DigiSkills (2022)
+
+</td>
+<td>
+
+**🥇 Awards**
+- 🏅 Talent Award — Informatics Institute of Technology
+- 🥈 2nd Position in Podcasting & Audiography (LALF) — UAF
+- 🎤 Naat Recitation Award — National Textile University
+- 🏆 UCP Takra — University of Central Punjab
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+> *"I enjoy turning everyday challenges into coding puzzles — whether it's optimizing a recipe or figuring out the best way to organize my workspace."*
+
+<br/>
+
+[![Email](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge)](mailto:chbassamtanvir@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/chaudhry-bassam-tanvir)
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge)](https://twitter.com/chbassamtanvir)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge)](https://instagram.com/chbassamtanvir)
+[![YouTube](https://img.shields.io/badge/▶️_YouTube-FF0000?style=for-the-badge)](https://www.youtube.com/channel/UCGnVpptmEz0BKbno3OSyu5Q)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+
+</div>
