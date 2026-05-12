@@ -21,35 +21,27 @@
 
 ## 🧠 About Me
 
-<table>
-<tr>
-<td width="55%" valign="top">
+```python
+class BassamTanvir:
+    def __init__(self):
+        self.name        = "Chaudhry Bassam Tanvir"
+        self.role        = "Software Engineer — AI & Full-Stack"
+        self.location    = "Faisalabad, Pakistan 🇵🇰"
+        self.education   = "B.Sc. Software Engineering @ UAF  |  CGPA: 3.57/4.00"
 
-### Hey, I'm Bassam 👋
+        self.currently   = ["Agentic AI", "n8n Automation", "LangGraph"]
+        self.building    = ["LLM-powered web apps", "Multi-channel AI agents"]
+        self.research    = ["Published on ResearchGate & Zenodo"]
 
-I'm a **Software Engineer** from Faisalabad, Pakistan, obsessed with building at the intersection of **Generative AI** and modern full-stack development.
+        self.interests   = [
+            "Generative AI", "Conversational Agents",
+            "Full-Stack Systems", "Creative AI (GANs, Music)"
+        ]
+        self.fun_fact    = "I turn everyday challenges into coding puzzles 🧩"
 
-I've shipped agentic AI systems, LLM-powered web apps, GAN-based creative tools, and NLP classifiers — across real internships and published research.
-
-<br/>
-
-| | |
-|---|---|
-| 🎓 | B.Sc. Software Engineering @ UAF — **3.57 GPA** |
-| 📍 | Faisalabad, Pakistan |
-| 🔭 | Currently mastering **Agentic AI & LangGraph** |
-| 🌱 | Building with **Next.js · FastAPI · LangChain** |
-| 📄 | **4 research papers** on ResearchGate & Zenodo |
-| ⚡ | Fun fact — I treat every problem like a puzzle 🧩 |
-
-</td>
-<td width="45%" align="center" valign="top">
-
-<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300" style="border-radius: 12px;" />
-
-</td>
-</tr>
-</table>
+    def greet(self):
+        return "Let's build something intelligent together 🚀"
+```
 
 ---
 
