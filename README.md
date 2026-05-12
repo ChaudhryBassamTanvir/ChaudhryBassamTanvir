@@ -21,27 +21,71 @@
 
 ## 🧠 About Me
 
-```python
-class BassamTanvir:
-    def __init__(self):
-        self.name        = "Chaudhry Bassam Tanvir"
-        self.role        = "Software Engineer — AI & Full-Stack"
-        self.location    = "Faisalabad, Pakistan 🇵🇰"
-        self.education   = "B.Sc. Software Engineering @ UAF  |  CGPA: 3.57/4.00"
+<table>
+<tr>
+<td width="55%" valign="top">
 
-        self.currently   = ["Agentic AI", "n8n Automation", "LangGraph"]
-        self.building    = ["LLM-powered web apps", "Multi-channel AI agents"]
-        self.research    = ["Published on ResearchGate & Zenodo"]
+### Hey, I'm Bassam 👋
 
-        self.interests   = [
-            "Generative AI", "Conversational Agents",
-            "Full-Stack Systems", "Creative AI (GANs, Music)"
-        ]
-        self.fun_fact    = "I turn everyday challenges into coding puzzles 🧩"
+I'm a **Software Engineer** from Faisalabad, Pakistan, obsessed with building at the intersection of **Generative AI** and modern full-stack development.
 
-    def greet(self):
-        return "Let's build something intelligent together 🚀"
-```
+I've shipped agentic AI systems, LLM-powered web apps, GAN-based creative tools, and NLP classifiers — across real internships and published research.
+
+<br/>
+
+| | |
+|---|---|
+| 🎓 | B.Sc. Software Engineering @ UAF — **3.57 GPA** |
+| 📍 | Faisalabad, Pakistan |
+| 🔭 | Currently mastering **Agentic AI & LangGraph** |
+| 🌱 | Building with **Next.js · FastAPI · LangChain** |
+| 📄 | **4 research papers** on ResearchGate & Zenodo |
+| ⚡ | Fun fact — I treat every problem like a puzzle 🧩 |
+
+</td>
+<td width="45%" align="center" valign="top">
+
+<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300" style="border-radius: 12px;" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### ⚡ AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLMs%20%2F%20Gemini-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🌐 Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🔧 Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+</div>
 
 ---
 
@@ -115,42 +159,6 @@ NLP-based fake news detection system using text preprocessing, sentiment analysi
 </td>
 </tr>
 </table>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### ⚡ AI / ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLMs%20%2F%20Gemini-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### 🌐 Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🔧 Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-</div>
 
 ---
 
