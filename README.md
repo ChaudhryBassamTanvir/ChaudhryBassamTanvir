@@ -35,7 +35,7 @@ I've shipped agentic AI systems, LLM-powered web apps, GAN-based creative tools,
 
 | | |
 |---|---|
-| 🎓 | B.Sc. Software Engineering @ UAF — **3.57 GPA** |
+| 🎓 | B.Sc. Software Engineering @ UAF |
 | 📍 | Faisalabad, Pakistan |
 | 🔭 | Currently mastering **Agentic AI & LangGraph** |
 | 🌱 | Building with **Next.js · FastAPI · LangChain** |
