@@ -27,7 +27,7 @@ class BassamTanvir:
         self.name        = "Chaudhry Bassam Tanvir"
         self.role        = "Software Engineer — AI & Full-Stack"
         self.location    = "Faisalabad, Pakistan 🇵🇰"
-        self.education   = "B.Sc. Software Engineering @ UAF  |  CGPA: 3.57/4.00"
+        self.education   = "BS Software Engineering @ UAF  "
 
         self.currently   = ["Agentic AI", "n8n Automation", "LangGraph"]
         self.building    = ["LLM-powered web apps", "Multi-channel AI agents"]
