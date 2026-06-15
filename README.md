@@ -25,7 +25,7 @@
 class BassamTanvir:
     def __init__(self):
         self.name        = "Chaudhry Bassam Tanvir"
-        self.role        = "Software Engineer — AI & Full-Stack"
+        self.role        = "Software Engineer — AI & Full-Stack Developer"
         self.location    = "Faisalabad, Pakistan 🇵🇰"
         self.education   = "BS Software Engineering @ UAF  "
 
