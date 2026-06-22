@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Chaudhry%20Bassam%20Tanvir&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=58&descSize=16&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Chaudhry%20Bassam%20Tanvir&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=58&descSize=16&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+Agentic+AI+Systems+%F0%9F%A4%96;Crafting+LLM-Powered+Applications+%E2%9A%A1;Full-Stack+Engineer+%7C+Next.js+%2B+FastAPI;Turning+Ideas+Into+Intelligent+Products+%F0%9F%9A%80)](https://git.io/typing-svg)
 
