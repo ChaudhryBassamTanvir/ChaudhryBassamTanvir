@@ -31,7 +31,7 @@ class BassamTanvir:
 
         self.currently   = ["Agentic AI", "n8n Automation", "LangGraph"]
         self.building    = ["LLM-powered web apps", "Multi-channel AI agents"]
-        self.research    = ["Published on ResearchGate & Zenodo"]
+        self.research    = ["Published on IEEE, ResearchGate & Zenodo"]
 
         self.interests   = [
             "Generative AI", "Conversational Agents",
