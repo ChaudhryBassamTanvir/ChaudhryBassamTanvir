@@ -40,7 +40,7 @@ class BassamTanvir:
         self.fun_fact    = "I turn everyday challenges into coding puzzles 🧩"
 
     def greet(self):
-        return "Let's build something intelligent together 🚀"
+        return "Let's build something intelligent🚀"
 ```
 
 ---
