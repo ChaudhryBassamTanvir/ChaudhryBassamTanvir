@@ -173,7 +173,7 @@ NLP-based fake news detection system using text preprocessing, sentiment analysi
 
 | 📝 Title | 🔗 DOI / Status |
 |---|---|
-| **ARIA: AI-Powered Multi-Channel Client Communication & Task Management** | `DOI: Pending` |
+| **ARIA: AI-Powered Multi-Channel Client Communication & Task Management** | [10.5281/zenodo.20012822] |
 | **UniLog: In-Context Learning Framework for Automated Logging with LLMs** | [10.5281/zenodo.17392305](https://doi.org/10.5281/zenodo.17392305) |
 | **Mobile Finder System: Smart Lost & Found Tracking with Flutter & Firebase** | [10.13140/RG.2.2.17825.88160](https://doi.org/10.13140/RG.2.2.17825.88160) |
 | **Digitalization of Final Year Project Portal** | [10.5281/zenodo.17260857](https://doi.org/10.5281/zenodo.17260857) |
